@@ -8,9 +8,9 @@
 <img src="https://raw.github.com/LeeFengHY/LLLaunchAd/master/LLLaunchAd/ad.png" width="320">
 
 # 使用
-**把LLLaunchAd文件夹拖入到你的项目中<br />
-**设置好 imageUrl, 支持静态广告和GIF广告, `LaunchTypeTimeText` `duration` `adFrame`<br />
-**代码如下
+1.把LLLaunchAd文件夹拖入到你的项目中<br />
+2.设置好 imageUrl, 支持静态广告和GIF广告, `LaunchTypeTimeText` `duration` `adFrame`<br />
+3.代码如下
 
 ```objc
 - (void)example
@@ -55,5 +55,5 @@
 }
 ```
 #联系
-**与其狠狠的给我一个赞, 不如痛快的给我提个issue!<br />
-**欢迎交流QQ:578545715
+1.与其狠狠的给我一个赞, 不如痛快的给我提个issue!<br />
+2.欢迎交流QQ:578545715
