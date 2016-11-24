@@ -9,7 +9,7 @@
 
 # 使用
 1.把LLLaunchAd文件夹拖入到你的项目中<br />
-2.设置好 imageUrl, 支持静态广告和GIF广告, `LaunchTypeTimeText` `duration` `adFrame`<br />
+2.设置好 `imageUrl`, 支持静态广告和`GIF`广告, `LaunchTypeTimeText` `duration` `adFrame`<br />
 3.代码如下
 
 ```objc
