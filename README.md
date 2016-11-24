@@ -5,4 +5,4 @@
 
 # Demo Project 
 
-<img src="https://raw.github.com/leefenghy/LLLaunchAd/ad.png" width="320">
+<img src="https://raw.github.com/LeeFengHY/LLLaunchAd/master/LLLaunchAd/ad.png" width="320">
